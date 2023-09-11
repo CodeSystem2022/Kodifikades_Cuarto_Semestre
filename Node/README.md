@@ -1,6 +1,5 @@
-## *JavaScript*
-
-[![200w.gif](https://i.postimg.cc/9XZ50vCj/200w.gif)](https://postimg.cc/s1j00HMn)
+## *Node*
+![giphy](https://github.com/CodeSystem2022/Kodifikades_Cuarto_Semestre/assets/81488933/da442b4e-bfa0-4cf2-8d58-f61a3fcd5cfb)
 
 | Semana | Srum Master | Estado | 
 | ---- | ---- | ---- |
