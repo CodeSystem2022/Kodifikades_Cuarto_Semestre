@@ -3,8 +3,8 @@
 
 | Semana | Srum Master | Estado | 
 | ---- | ---- | ---- |
-| *Semana 1* | *Miguel A. Bru Melis* | ✔️ *COMPLETO* |
-| *Semana 2* | *Eduardo Bru* |  ** |
+| *Semana 1* | *Miguel A. Bru Melis* | ✔️ ** |
+| *Semana 2* | *Eduardo Bru* | ✔️ ** |
 | *Semana 3* | *Lucas Ruiz* | ✔️ ** |
 | *Semana 4* | *Nicolás Ortiz* | ✔️ ** |
 | *Semana 5* | *Juan Cruz Reche* | ✔️ ** |
