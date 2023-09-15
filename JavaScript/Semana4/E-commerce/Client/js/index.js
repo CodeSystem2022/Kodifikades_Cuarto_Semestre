@@ -33,7 +33,6 @@ buyButton.addEventListener("click",()=>{
         price: product.price,
         quanty:product.quanty,
         img: product.img,
-    
         });
 
       }
