@@ -31,7 +31,7 @@ public class SistemaEstudiantesApp {
                 3. Agregar Estudiantes
                 4. Modificar Estudiantes
                 5. Eliminar Estudiantes
-                6. Salir
+                6. Salir 
                 Elige una opcion:
                 """);
     }
