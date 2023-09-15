@@ -11,8 +11,8 @@ import lombok.ToString;
 @Entity
 //boilerplate - Repetitivo
 @Data
-@NoArgsConstructor
 @AllArgsConstructor
+@NoArgsConstructor
 @ToString
 public class Estudiante {
     @Id
