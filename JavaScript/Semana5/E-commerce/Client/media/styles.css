@@ -42,6 +42,22 @@
     cursor:pointer;
     opacity: 0.9;
 }
+
+.cart-counter{
+    /*display:none;*/
+    position:fixed;
+    top:89vh;
+    right:27px;
+    color: #fff;
+    text-align: center;
+    background-color: #ed3434;
+    padding: 4px;
+    border-radius: 50%;
+    height: 17px;
+    width: 17px;
+    font-size: 15px;
+}
+
 .card-products button:hover{
     opacity: 0.7;
 }

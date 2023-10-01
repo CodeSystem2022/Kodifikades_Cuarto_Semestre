@@ -1,28 +1,28 @@
-const shopContent = document.getElementById('shopContent');
-const cart = []; //array vacio
+const shopContent = document.getElementById("shopContent");
+const cart = []; //este es nuestro carrito, un array vacío
 
-productos.forEach((product) => {
-	const content = document.createElement('div');
-	content.innerHTML = `
+productos.forEach((product) =>{
+    const content = document.createElement("div");
+    content.innerHTML = `
     <img src="${product.img}">
     <h3>${product.productName}</h3>
     <p>${product.price} $</p>
     `;
-	shopContent.append(content);
+    shopContent.append(content);
 
-	const buyButton = document.createElement('button');
-	buyButton.innerHTML = 'Comprar';
+    const buyButton = document.createElement("button");
+    buyButton.innerText = "Comprar";
 
-	content.append(buyButton);
+    content.append(buyButton);
 
-	buyButton.addEventListener('click', () => {
-		cart.push({
-			id: product.id,
-			productName: product.productName,
-			price: product.price,
-			quanty: product.quanty,
-			img: product.img,
-		});
-		console.log(cart);
-	});
+    buyButton.addEventListener("click", ()=>{
+        cart.push({
+            id: product.id,
+            productName: product.productName,
+            price: product.price,
+            quanty: product.quanty,
+            img: product.img,
+        })
+        console.log(cart)
+    })
 });
