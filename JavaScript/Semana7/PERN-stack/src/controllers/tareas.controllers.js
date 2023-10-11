@@ -1,17 +1,40 @@
 import { pool } from '../db.js';
 
-export const listarTareas = async (req, res) => {
-	try {
-		const result = await pool.query('SELECT FROM * tareas');
-		res.status(200).json({ result });
-	} catch (error) {
-		res.status(400).json({ result });
-	}
-};
+export const listarTareas = (req, res) => {
+    
+        const resultado = pool.query('SELECT * FROM tareas');
+        console.log(resultado);
+        return res.json(resultado.rows);
+}
 
-export const listarTarea = (req, res) => res.send('obteniendo tarea unica');
+export const listarTarea = async (req, res) => {
+    const resultado = await pool.query('SELECT * FROM tareas WHERE id = $1', [req.params.id]);
+    if (resultado.rowCount === 0) {
+        return res.status(404).json({
+            mesage: 'La Tarea no existe'
+        });
+    }
+    return res.json(resultado.rowCount[0]);
+}
 
-export const crearTarea = (req, res) => res.send('creando tareas');
+
+export const crearTarea = async (req, res) => {
+    const { titulo, descripcion } = req.body;
+
+    try {
+        const result = await pool.query('INSERT INTO tareas ( titulo, descripcion) VALUES ($1, $2) RETURNING *', [ titulo, descripcion]); 
+        res.json(result.rows[0]);
+        console.log(result.rows[0]);
+    } catch (error) {
+        if(error.code === '23505') {
+            return res.status(409).json({
+                message: 'Ya existe una tarea con ese titulo'
+            });
+        }
+
+    }
+  
+}
 
 export const actualizarTarea = async (req, res) => {
     const {titulo, descripcion } = req.body;
@@ -26,4 +49,14 @@ export const actualizarTarea = async (req, res) => {
     return res.json(result.rows[0]);
 }
 
-export const elimiarTarea = (req, res) => res.send('eliminando tarea unica');
+export const eliminarTarea = async (req, res) => {
+    const resultado = await pool.query('DELETE FROM tareas WHERE id= $1', [req.params.id]);
+
+    if (resultado.rowCount === 0) {
+        return res.status(404).json({
+            message: 'No existe una tarea con ese Id'
+        });
+    }
+
+    return res.send(204);
+}
