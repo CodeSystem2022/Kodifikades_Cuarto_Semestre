@@ -50,7 +50,7 @@ public class EstudiantesApplication implements CommandLineRunner {
                 4. Modificar Estudiante
                 5. Eliminar Estudiante
                 6. Salir
-                Elige una opción:""");
+                Elige una opción:"""); 
     }
 
     private boolean ejecutandoOpciones(Scanner consola) {

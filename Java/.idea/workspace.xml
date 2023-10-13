@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+=======
+>>>>>>> 8a711ead852d539bcd42cc75a95a37044c4bb6a5
   <component name="ChangeListManager">
     <list default="true" id="001e0957-6820-4154-b257-1a8a179b0cc5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +19,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+<<<<<<< HEAD
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -23,6 +27,8 @@
       </MavenGeneralSettings>
     </option>
   </component>
+=======
+>>>>>>> 8a711ead852d539bcd42cc75a95a37044c4bb6a5
   <component name="ProjectId" id="2VUKOtgHrIOGO8U3jUZvGLYU6GO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,7 +39,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "last_opened_file_path": "C:/Users/Nico/Desktop/utn/Kodifikades_Cuarto_Semestre/Java"
+=======
+    "last_opened_file_path": "C:/Users/Nico/Desktop/ecommerce/backend"
+>>>>>>> 8a711ead852d539bcd42cc75a95a37044c4bb6a5
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

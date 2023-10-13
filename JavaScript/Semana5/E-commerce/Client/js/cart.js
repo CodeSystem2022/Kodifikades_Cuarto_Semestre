@@ -95,14 +95,12 @@ const displayCart =() =>{
 
     // mp;
     // Add SDK credentials
-// REPLACE WITH YOUR PUBLIC KEY AVAILABLE IN: https://developers.mercadopago.com/panel
-const mercadopago = new MercadoPago("TEST-41970c90-c65f-4b7e-b021-e644e0852c07", {
-    locale: 'es-AR' // The most common are: 'pt-BR', 'es-AR' and 'en-US'
-  });
+    // REPLACE WITH YOUR PUBLIC KEY AVAILABLE IN: https://developers.mercadopago.com/panel
+    const mercadopago = new MercadoPago("TEST-41970c90-c65f-4b7e-b021-e644e0852c07", {
+      locale: 'es-AR' // The most common are: 'pt-BR', 'es-AR' and 'en-US'
+    });
   
-const checkoutButton=modalFooter.querySelector("#checkout-btn");
-
-
+    const checkoutButton=modalFooter.querySelector("#checkout-btn");
   
     checkoutButton.addEventListener("click",function(){
 
