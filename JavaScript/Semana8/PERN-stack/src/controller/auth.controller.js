@@ -1,6 +1,5 @@
 import { pool } from "../db.js"
-import bcrypt from 'bcrypt'; //importamos bcrypt
-import { createAccessToken } from "../libs/jwt.js";
+
 
 export const signin = (req, res) => res.send('ingresando');
 
@@ -8,11 +7,7 @@ export const signup = async (req, res) => {
     const { name, email, password } = req.body;
 
     try {
-        //encriptamos el password antes de que lo ingrese a la bd
-        const hashedPassword = await bcrypt.hash(password, 10); //se repite entre 10 y 15 veces el algoritmo
-        console.log(hashedPassword);
 
-        const result = await pool.query("INSERT INTO usuarios (name, email, password) VALUES ($1, $2, $3) RETURNING *", [name, email, hashedPassword]); //guardamos la contraseña ya hasheada
 
         const token = await createAccessToken({id: result.rows[0].id });
         console.log(result);
