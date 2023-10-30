@@ -1,8 +1,5 @@
 # Grupo: Kodifikades - Cuarto Semestre
-
-![kodifikades](https://github.com/CodeSystem2022/Kodifikades_Tercer_Semestre/assets/81488933/71e64b9f-2890-447d-bb0b-0277eeee6f8c)
-![New-file(1)](https://github.com/CodeSystem2022/Kodifikades_Cuarto_Semestre/assets/81488933/a8ca19a8-c684-4908-94cb-ff6062dcaacf)
-
+![kodifikades_animated](https://github.com/CodeSystem2022/Kodifikades_Cuarto_Semestre/assets/81488933/efade64a-2a63-4ba4-81d6-10d19febfd82)
 
 ## :star: Integrantes:
 - :white_check_mark: Miguel A. Bru Melis <br>
