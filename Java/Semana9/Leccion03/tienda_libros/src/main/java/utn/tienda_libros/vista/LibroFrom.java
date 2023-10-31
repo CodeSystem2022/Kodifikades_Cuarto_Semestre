@@ -71,6 +71,7 @@ public class LibroFrom extends JFrame {
         JOptionPane.showMessageDialog(this, mensaje);
     }
 
+    
     private void createUIComponents() {
         // TODO: place custom component creation code here
         this.tablaModeloLibros = new DefaultTableModel(0, 5);
