@@ -20,6 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg " width="100" height="90"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"  width="100" height="90"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  width="100" height="90"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"  width="80" height="85"/>
 
 
   
