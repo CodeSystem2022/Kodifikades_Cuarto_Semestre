@@ -1,7 +1,7 @@
 # Grupo: Kodifikades - Cuarto Semestre
 ![kodifikades_animated](https://github.com/CodeSystem2022/Kodifikades_Cuarto_Semestre/assets/81488933/efade64a-2a63-4ba4-81d6-10d19febfd82)
 
-## :star: Integrantes
+## 👨‍💻 Integrantes
 - :white_check_mark: Miguel A. Bru Melis <br>
 - :white_check_mark: Eduardo Bru Melis <br>
 - :white_check_mark: Lucas Ruiz <br>
