@@ -52,3 +52,13 @@
 | :pencil: Semana 12 | 👨‍💻 *Eduardo Bru* | Finalizado 🟢| 
 | :pencil: Semana 13 | 👨‍💻 *Lucas Ruiz* ||
 
+## 📖 Wiki
+
+*[WIKI DEL PROYECTO](https://github.com/CodeSystem2022/Kodifikades_Cuarto_Semestre/wiki)*
+
+---
+<div align="center">
+  <a href="https://www.frsr.utn.edu.ar/">
+    <img src="https://utn.edu.ar/images/logo-utn.png" alt="Logo UTN" width="200">
+  </a>
+</div>
