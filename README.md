@@ -7,7 +7,6 @@
 - :white_check_mark: Lucas Ruiz <br>
 - :white_check_mark: Juan Cruz Reche <br>
 - :white_check_mark: Nicolás Ortiz <br>
-https://github.com/CodeSystem2022/Kodifikades_Cuarto_Semestre/assets/81488933/9747690b-33ce-4b8f-a634-ad1f053402ae
 
 ## 💻 Tecnologías Utilizadas
 
