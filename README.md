@@ -7,6 +7,7 @@
 - :white_check_mark: Lucas Ruiz <br>
 - :white_check_mark: Juan Cruz Reche <br>
 - :white_check_mark: Nicolás Ortiz <br>
+https://github.com/CodeSystem2022/Kodifikades_Cuarto_Semestre/assets/81488933/9747690b-33ce-4b8f-a634-ad1f053402ae
 
 ## 💻 Tecnologías Utilizadas
 
@@ -21,6 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"  width="100" height="90"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  width="100" height="90"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"  width="80" height="85"/>
+  <img src="https://github.com/CodeSystem2022/Kodifikades_Cuarto_Semestre/assets/81488933/9747690b-33ce-4b8f-a634-ad1f053402ae" alt="Spring" width="110" height="95"></img>
 
 
   
