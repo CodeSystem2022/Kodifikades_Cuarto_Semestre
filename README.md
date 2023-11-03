@@ -22,7 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg " width="100" height="90"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  width="100" height="90"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"  width="80" height="85"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" width="80" height="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" width="85" height="80"/>
   <img src="https://github.com/CodeSystem2022/Kodifikades_Cuarto_Semestre/assets/81488933/2f3e4cb5-6dfc-4fd3-8cb7-32e370e41ed7" alt="Express" width="90" height="90"></img>
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" width="90" height="90"></img>
   <img src="https://github.com/CodeSystem2022/Kodifikades_Cuarto_Semestre/assets/81488933/f15a73f4-59f3-4ecb-9145-fdf2d7a31ab6" alt="Spring" width="100" height="100"></img>
