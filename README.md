@@ -18,11 +18,11 @@
   <a href="https://nodejs.org/"><img src="https://vistaran-tech.s3.ap-south-1.amazonaws.com/wp-content/uploads/2022/05/13104926/nodejs-logo.png" alt="Node.js" width="100" height="100"></a>
   <a href="https://www.mysql.com/products/workbench/"><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL Workbench" width="90" height="90"></a>
   <a href="https://www.postman.com/"><img src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj" alt="Postman" width="90" height="90"></a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg " width="100" height="90"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"  width="100" height="90"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg " width="100" height="90"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  width="100" height="90"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"  width="80" height="85"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" width="80" height="85"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" width="80" height="80"/>
   <img src="https://github.com/CodeSystem2022/Kodifikades_Cuarto_Semestre/assets/81488933/2f3e4cb5-6dfc-4fd3-8cb7-32e370e41ed7" alt="Express" width="90" height="90"></img>
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" width="90" height="90"></img>
   <img src="https://github.com/CodeSystem2022/Kodifikades_Cuarto_Semestre/assets/81488933/f15a73f4-59f3-4ecb-9145-fdf2d7a31ab6" alt="Spring" width="100" height="100"></img>
