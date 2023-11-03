@@ -25,8 +25,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" width="80" height="85"/>
   <img src="https://github.com/CodeSystem2022/Kodifikades_Cuarto_Semestre/assets/81488933/2f3e4cb5-6dfc-4fd3-8cb7-32e370e41ed7" alt="Express" width="90" height="90"></img>
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" width="90" height="90"></img>
-  <img src="https://github.com/CodeSystem2022/Kodifikades_Cuarto_Semestre/assets/81488933/e4fd8665-4838-46f5-8430-5f7503071254" alt="Firebase" width="50" height="70"></img>
-  
   <img src="https://github.com/CodeSystem2022/Kodifikades_Cuarto_Semestre/assets/81488933/9747690b-33ce-4b8f-a634-ad1f053402ae" alt="Spring" width="100" height="90"></img>
 
 ##  📂 División por Carpetas
