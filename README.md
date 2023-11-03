@@ -38,24 +38,76 @@
        ┃━ ━📂 Node
        
 
-## 🎯 Responsable Semanal Scrum
+## 🎯 Responsable Semanal Scrum  
 
-| **Número de semana** 🗓️ | **Scrum Master** 💻 |**Estado** 🚀 |
-| ---- | ---- | ---- |
-| :pencil: Semana 1 | 👨‍💻 *Miguel A. Bru Melis* | Finalizado 🟢| 
-| :pencil: Semana 2 | 👨‍💻 *Eduardo Bru* | Finalizado 🟢| 
-| :pencil: Semana 3 | 👨‍💻 *Lucas Ruiz* | Finalizado 🟢| 
-| :pencil: Semana 4 | 👨‍💻 *Nicolás Ortiz* | Finalizado 🟢| 
-| :pencil: Semana 5 | 👨‍💻 *Juan Cruz Reche* | Finalizado 🟢| 
-| :pencil: Semana 6 | 👨‍💻 *Miguel A. Bru Melis* | Finalizado 🟢| 
-| :pencil: Semana 7 | 👨‍💻 *Eduardo Bru* | Finalizado 🟢| 
-| :pencil: Semana 8 | 👨‍💻 *Lucas Ruiz* | Finalizado 🟢| 
-| :pencil: Semana 9 | 👨‍💻 *Nicolás Ortiz* | Finalizado 🟢| 
-| :pencil: Semana 10 | 👨‍💻 *Juan Cruz Reche* | Finalizado 🟢| 
-| :pencil: Semana 11 | 👨‍💻 *Miguel A. Bru Melis* | Finalizado 🟢| 
-| :pencil: Semana 12 | 👨‍💻 *Eduardo Bru* | Finalizado 🟢| 
-| :pencil: Semana 13 | 👨‍💻 *Lucas Ruiz* ||
-
+  <table align="center">
+	<tr>
+		<th>Número de Semana 🗓️ </th>
+		<th>Scrum Master 💻</th>
+    <th>Estado 🚀 </th>
+  </tr>
+   	<tr>
+		<td align="center">✏️ Semana 1</td>
+		<td>👨‍💻<em>  Miguel A. Bru Melis </em></td>
+		<th> 🟢 </th>
+   	</tr>
+	<tr>
+		<td align="center">✏️ Semana 2</td>
+		<td>👨‍💻<em>  Eduardo Bru </em></td>
+                <th> 🟢 </th>
+	</tr>
+	<tr>
+		<td align="center" >✏️ Semana 3</td>
+		<td>👨‍💻<em>  Lucas Ruiz </em></td>
+                <th> 🟢 </th>
+	</tr>
+        <tr>
+		<td align="center">✏️ Semana 4</td>
+		<td>👨‍💻<em>  Nicolás Ortiz </em></td>
+                <th> 🟢 </th>   
+	</tr>
+<tr>
+		<td align="center">✏️ Semana 5</td>
+		<td>👨‍💻<em>  Miguel A. Bru Melis </em></td>
+		<th> 🟢 </th>
+   	</tr>
+	<tr>
+		<td align="center">✏️ Semana 6</td>
+		<td>👨‍💻<em>  Eduardo Bru </em></td>
+                <th> 🟢 </th>
+	</tr>
+	<tr>
+		<td align="center" >✏️ Semana 7</td>
+		<td>👨‍💻<em>  Lucas Ruiz </em></td>
+                <th> 🟢 </th>
+	</tr>
+        <tr>
+		<td align="center">✏️ Semana 8</td>
+		<td>👨‍💻<em>  Nicolás Ortiz </em></td>
+                <th> 🟢 </th>   
+	</tr>
+<tr>
+		<td align="center">✏️ Semana 9</td>
+		<td>👨‍💻<em>  Miguel A. Bru Melis </em></td>
+		<th> 🟢 </th>
+   	</tr>
+	<tr>
+		<td align="center">✏️ Semana 10</td>
+		<td>👨‍💻<em>  Eduardo Bru </em></td>
+                <th>   </th>
+	</tr>
+	<tr>
+		<td align="center" >✏️ Semana 11</td>
+		<td>👨‍💻<em>  Lucas Ruiz </em></td>
+                <th>   </th>
+	</tr>
+        <tr>
+		<td align="center">✏️ Semana 12</td>
+		<td>👨‍💻<em>  Nicolás Ortiz </em></td>
+                <th>   </th>   
+	</tr>
+</table>
+      
 ## 📖 Wiki
 
 *[WIKI DEL PROYECTO](https://github.com/CodeSystem2022/Kodifikades_Cuarto_Semestre/wiki)*
