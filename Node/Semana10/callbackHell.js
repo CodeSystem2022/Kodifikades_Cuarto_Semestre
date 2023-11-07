@@ -40,8 +40,8 @@ hola('Ariel', function(nombre){
     });
 });
 
-/*
-callback hell -> bienvenidos al infierno
+
+// callback hell -> bienvenidos al infierno
 hola('Carlos', function (nombre) {
     hablar(function () {
         hablar(function () {
@@ -56,4 +56,3 @@ hola('Carlos', function (nombre) {
     });
 });
 
-*/

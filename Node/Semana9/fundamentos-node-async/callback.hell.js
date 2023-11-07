@@ -19,6 +19,7 @@ function adios(nombre, otroCallBack) {
 	}, 1000);
 }
 
+
 //Función Recursiva
 function conversacion(nombre, veces, Callback) {
 	if (veces > 0) {
@@ -37,14 +38,12 @@ hola('Ariel', function (nombre) {
 		console.log('terminando el proceso ...');
 	});
 });
-//hola('Carlos', function(nombre) {
-//  hablar(function() {
-//    hablar(function() {
-//  adios(nombre, function(){
-//    console.log('Terminado el procesos..');
-//  });
-// });
-
-// });
-
-// });
+hola('Carlos', function (nombre) {
+	hablar(function () {
+		hablar(function () {
+			adios(nombre, function () {
+				console.log('Terminado el procesos..');
+			});
+		});
+	});
+});

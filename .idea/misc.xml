@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Java/Semana2/estudiantes/pom.xml" />
+        <option value="$PROJECT_DIR$/Java/Semana3/estudiantes/pom.xml" />
+        <option value="$PROJECT_DIR$/Java/Semana4/estudiantes/pom.xml" />
+        <option value="$PROJECT_DIR$/Java/Semana5/Leccion01/estudiantes/pom.xml" />
+        <option value="$PROJECT_DIR$/Java/Semana5/estudiantes/pom.xml" />
+        <option value="$PROJECT_DIR$/Java/Semana6/Leccion03/tienda_libros/pom.xml" />
+        <option value="$PROJECT_DIR$/Java/Semana7/Leccion03/tienda_libros/pom.xml" />
+        <option value="$PROJECT_DIR$/Java/Semana8/Leccion03/tienda_libros/pom.xml" />
+        <option value="$PROJECT_DIR$/Java/Semana9/Leccion03/tienda_libros/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>
