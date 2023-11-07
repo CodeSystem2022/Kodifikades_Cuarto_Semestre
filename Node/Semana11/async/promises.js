@@ -1,3 +1,5 @@
+// La palabra async no es necesaria en las funciones, porque ya son asincronas
+// Igual proyectan una sincronía visual
 function hola(nombre) {
     return new Promise(function (resolve, reject) {
         setTimeout(function () {
@@ -39,3 +41,17 @@ hola('Ariel')
         console.log('Ha habido un error: ');
         console.log(error);
     })
+
+// await hola("Ariel"); // eso es una mala sintaxis
+// await solo es valido dentro de una funcion asincrona
+async function main(){
+    let nombre = await hola("Ariel");
+    await hablar();
+    await hablar();
+    await hablar();
+    await adios(nombre);
+}
+console.log("Empezamos el proceso...")
+main();
+// console.log("Termina el proceso..")
+console.log("Esta va a ser la segunda instrucción")

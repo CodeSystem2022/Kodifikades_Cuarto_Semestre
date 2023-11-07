@@ -19,14 +19,6 @@ function adios(nombre, otroCallBack) {
 	}, 1000);
 }
 
-function adios2(nombre){
-	return new Promise((res, rej) => {
-		setTimeout(() => {
-			console.log("Adios " + nombre);
-			resolve();
-		}, 1000);
-	})
-}
 
 //Función Recursiva
 function conversacion(nombre, veces, Callback) {
@@ -55,12 +47,3 @@ hola('Carlos', function (nombre) {
 		});
 	});
 });
-
-
-// LLamamos a la función
-console.log("Iniciando el proceso...");
-hola("Ariel")
-	.then(adios2)
-	.then((nombre) => {
-		console.log("Terminando el proceso");
-	})
