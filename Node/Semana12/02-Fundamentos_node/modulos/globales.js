@@ -13,7 +13,7 @@
 // ejecutar un código cada intervalo de tiempo
 //setInterval(()=>{});
 
-// Da prioridad de ejecución a una función asíncrona
+// da prioridad de ejecución a una función asíncrona
 // se ejecuta una vez que termina el hilo principal
 // solo es soportado por internet explorer versión 10
 //setImmdiate();
