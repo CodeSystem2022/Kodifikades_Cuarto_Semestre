@@ -110,7 +110,7 @@
       
 ## 📖 Wiki
 
-*[WIKI DEL PROYECTO](https://github.com/CodeSystem2022/Kodifikades_Cuarto_Semestre/wiki)*
+*[WIKI DEL PROYECTO - CLICK AQUÍ](https://github.com/CodeSystem2022/Kodifikades_Cuarto_Semestre/wiki)*
 
 ---
 <div align="center">
