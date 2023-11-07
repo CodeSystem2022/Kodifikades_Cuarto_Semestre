@@ -37,14 +37,12 @@ hola('Ariel', function (nombre) {
 		console.log('terminando el proceso ...');
 	});
 });
-//hola('Carlos', function(nombre) {
-//  hablar(function() {
-//    hablar(function() {
-//  adios(nombre, function(){
-//    console.log('Terminado el procesos..');
-//  });
-// });
-
-// });
-
-// });
+hola('Carlos', function (nombre) {
+	hablar(function () {
+		hablar(function () {
+			adios(nombre, function () {
+				console.log('Terminado el procesos..');
+			});
+		});
+	});
+});
