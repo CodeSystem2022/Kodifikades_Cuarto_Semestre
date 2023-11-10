@@ -6,7 +6,6 @@
 // mostrar un mensaje en forma de error
 //console.error();
 
-
 // ejecutar un código despues de un intervalo de tiempo
 //setTimeout(()=>{});
 
