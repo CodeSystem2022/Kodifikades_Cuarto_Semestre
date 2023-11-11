@@ -15,7 +15,7 @@
     <th>Estado 🚀 </th>
   </tr>
    	<tr>
-		<td align="center">✏️ Semana 1</td>
+		<td align="center">✏️ Semana 13</td>
 		<td>👨‍💻<em>  Miguel A. Bru Melis </em></td>
 		<th> 🟢 </th>
    	</tr>
