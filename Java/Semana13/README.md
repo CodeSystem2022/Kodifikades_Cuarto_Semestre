@@ -1,9 +1,9 @@
-# *Python*
+# *Java*
 
 <br>
 
 <div align="center">
-<img src="https://media0.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Spring" width="300" height="300"></img>
+<img src="https://d2gbo5uoddvg5.cloudfront.net/images/modules/technologies/dev/developpement_java_maroc.gif" alt="Spring" width="400" height="250"></img>
 </div>  
 
 <br>
