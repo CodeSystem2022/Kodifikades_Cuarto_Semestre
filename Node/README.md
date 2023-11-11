@@ -1,18 +1,83 @@
-## *Node*
-![giphy](https://github.com/CodeSystem2022/Kodifikades_Cuarto_Semestre/assets/81488933/da442b4e-bfa0-4cf2-8d58-f61a3fcd5cfb)
+# *Node*
 
-| Semana | Srum Master | Estado | 
-| ---- | ---- | ---- |
-| *Semana 1* | *Miguel A. Bru Melis* | ✔️ ** |
-| *Semana 2* | *Eduardo Bru* | ✔️ ** |
-| *Semana 3* | *Lucas Ruiz* | ✔️ ** |
-| *Semana 4* | *Nicolás Ortiz* | ✔️ ** |
-| *Semana 5* | *Juan Cruz Reche* | ✔️ ** |
-| *Semana 6* | *Miguel A. Bru Melis* | ✔️ ** |
-| *Semana 7* | *Eduardo Bru* | ✔️ ** |
-| *Semana 8* | *Lucas Ruiz* | ✔️ ** |
-| *Semana 9* | *Nicolás Ortiz* | ✔️ ** |
-| *Semana 10* | *Juan Cruz Reche* | ✔️ ** |
-| *Semana 11* | *Miguel A. Bru Melis* | ✔️ ** |
-| *Semana 12* | *Eduardo Bru* | ✔️ ** |
-| *Semana 13* | *Lucas Ruiz* | ✔️ ** |
+<br>
+
+<div align="center">
+<img src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif?cid=6c09b952nsimftv927c7wp77l1nf12ldkvarhx4dme3op7ou&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="Spring" width="300" height="300">
+</div>  
+
+<br>
+
+  <table align="center">
+	<tr>
+		<th>Número de Semana 🗓️ </th>
+		<th>Scrum Master 💻</th>
+    <th>Estado 🚀 </th>
+  </tr>
+   	<tr>
+		<td align="center">✏️ Semana 1</td>
+		<td>👨‍💻<em>  Miguel A. Bru Melis </em></td>
+		<th> 🟢 </th>
+   	</tr>
+	<tr>
+		<td align="center">✏️ Semana 2</td>
+		<td>👨‍💻<em>  Eduardo Bru </em></td>
+                <th> 🟢 </th>
+	</tr>
+	<tr>
+		<td align="center" >✏️ Semana 3</td>
+		<td>👨‍💻<em>  Lucas Ruiz </em></td>
+                <th> 🟢 </th>
+	</tr>
+        <tr>
+		<td align="center">✏️ Semana 4</td>
+		<td>👨‍💻<em>  Nicolás Ortiz </em></td>
+                <th> 🟢 </th>   
+	</tr>
+<tr>
+		<td align="center">✏️ Semana 5</td>
+		<td>👨‍💻<em>  Miguel A. Bru Melis </em></td>
+		<th> 🟢 </th>
+   	</tr>
+	<tr>
+		<td align="center">✏️ Semana 6</td>
+		<td>👨‍💻<em>  Eduardo Bru </em></td>
+                <th> 🟢 </th>
+	</tr>
+	<tr>
+		<td align="center" >✏️ Semana 7</td>
+		<td>👨‍💻<em>  Lucas Ruiz </em></td>
+                <th> 🟢 </th>
+	</tr>
+        <tr>
+		<td align="center">✏️ Semana 8</td>
+		<td>👨‍💻<em>  Nicolás Ortiz </em></td>
+                <th> 🟢 </th>   
+	</tr>
+<tr>
+		<td align="center">✏️ Semana 9</td>
+		<td>👨‍💻<em>  Miguel A. Bru Melis </em></td>
+		<th> 🟢 </th>
+   	</tr>
+	<tr>
+		<td align="center">✏️ Semana 10</td>
+		<td>👨‍💻<em>  Eduardo Bru </em></td>
+                <th> 🟢 </th>
+	</tr>
+	<tr>
+		<td align="center" >✏️ Semana 11</td>
+		<td>👨‍💻<em>  Lucas Ruiz </em></td>
+                <th> 🟢 </th>
+	</tr>
+        <tr>
+		<td align="center">✏️ Semana 12</td>
+		<td>👨‍💻<em>  Nicolás Ortiz </em></td>
+                <th> 🟢 </th>   
+	</tr>
+    	</tr>
+        <tr>
+		<td align="center">✏️ Semana 13</td>
+		<td>👨‍💻<em>  Miguel A. Bru Melis </em></td>
+                <th> 🟢 </th>   
+	</tr>
+</table>
