@@ -39,7 +39,6 @@
        
 
 ## 🎯 Responsable Semanal Scrum  
-
   <table align="center">
 	<tr>
 		<th>Número de Semana 🗓️ </th>
@@ -94,17 +93,23 @@
 	<tr>
 		<td align="center">✏️ Semana 10</td>
 		<td>👨‍💻<em>  Eduardo Bru </em></td>
-                <th>   </th>
+                <th> 🟢 </th>
 	</tr>
 	<tr>
 		<td align="center" >✏️ Semana 11</td>
 		<td>👨‍💻<em>  Lucas Ruiz </em></td>
-                <th>   </th>
+                <th> 🟢 </th>
 	</tr>
         <tr>
 		<td align="center">✏️ Semana 12</td>
 		<td>👨‍💻<em>  Nicolás Ortiz </em></td>
-                <th>   </th>   
+                <th> 🟢 </th>   
+	</tr>
+    	</tr>
+        <tr>
+		<td align="center">✏️ Semana 13</td>
+		<td>👨‍💻<em>  Miguel A. Bru Melis </em></td>
+                <th> 🟢 </th>   
 	</tr>
 </table>
       
