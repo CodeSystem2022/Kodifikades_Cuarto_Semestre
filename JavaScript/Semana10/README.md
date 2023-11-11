@@ -15,8 +15,8 @@
     <th>Estado 🚀 </th>
   </tr>
    	<tr>
-		<td align="center">✏️ Semana 8</td>
-		<td>👨‍💻<em>  Nicolás Ortiz </em></td>
+		<td align="center">✏️ Semana 10</td>
+		<td>👨‍💻<em>  Eduardo Bru </em></td>
 		<th> 🟢 </th>
    	</tr>
 </table>
