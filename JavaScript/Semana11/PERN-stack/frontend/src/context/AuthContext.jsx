@@ -20,20 +20,20 @@ export function AuthProvider({ children }) {
     const [errors, setErrors] = useState(null);
 
 
-    const signin = async (data) =>{
-      try {
-        const res = await axios.post("/signin", data);
+    const signin = async (data) => {
+        try {
+            const res = await axios.post("/signin", data);
 
             setUser(res.data);
             setIsAuth(true);
-        return res.data;
-      } catch (error) {
+            return res.data;
+        } catch (error) {
             console.log(error);
-            if(Array.isArray(error.response.data)){
+            if (Array.isArray(error.response.data)) {
                 return setErrors(error.response.data)
+            }
+            setErrors([error.response.data.message]); //si no es un arreglo, lo convertimos a uno
         }
-        setErrors([error.response.data.message]);
-      }
 
     };
 
@@ -41,15 +41,15 @@ export function AuthProvider({ children }) {
     const signup = async (data) => {
         try {
             const res = await axios.post("/signup", data);
-                setUser(res.data);
-                setIsAuth(true);
+            setUser(res.data);
+            setIsAuth(true);
             return res.data;
         } catch (error) {
             console.log(error);
-            if(Array.isArray(error.response.data)){
+            if (Array.isArray(error.response.data)) {
                 return setErrors(error.response.data)
-        }
-        setErrors([error.response.data.message]);
+            }
+            setErrors([error.response.data.message]);
         }
     };
 
@@ -57,13 +57,13 @@ export function AuthProvider({ children }) {
         const res = await axios.post("/signout");
         setUser(null);
         setIsAuth(false);
-    
+
         return res.data;
     }
-    
 
     useEffect(() => {
-        if (Cookie.get("token")){
+        //console.log(cookie.get('token'));
+        if (Cookie.get("token")) {
             axios.get("/profile").then((res) => {
                 setUser(res.data);
                 setIsAuth(true);
@@ -74,6 +74,7 @@ export function AuthProvider({ children }) {
             });
         }
     }, []);
+
 
     return <AuthContext.Provider value={{
         user,
@@ -86,4 +87,6 @@ export function AuthProvider({ children }) {
     }}>
         {children}
     </AuthContext.Provider>
-}
+};
+
+//ARCHIVO CHEQUEADO HASTA VIDEO 6 - CORRECTO

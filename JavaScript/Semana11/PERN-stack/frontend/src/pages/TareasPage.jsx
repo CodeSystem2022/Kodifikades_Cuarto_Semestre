@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { listarTareasRequest, obtenerTareasRequest } from "../api/tareas.api";
+import { listarTareasRequest } from "../api/tareas.api";
 import {CardTareas} from "../components/tareas/CardTareas";
 
 function TareasPage() {

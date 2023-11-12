@@ -1,45 +1,33 @@
-const productos = [
+const productos=[
     {
         id: 1,
         productName: "Banana",
-        price: 1000,
+        price: 480,
         quanty: 1,
-        img: "../client/media/banana.png",
+        img: "../media/banana.png"
     },
+    
     {
-        id: 2,
-        productName: "Enlatados",
-        price: 600,
-        quanty: 1,
-        img: "../client/media/enlatados.png",
-    },
-    {
-        id: 3,
+        id:2,
         productName: "Leche",
-        price: 1500,
-        quanty: 3,
-        img: "../client/media/leche.png",
-    },
-    {
-        id: 5,
-        productName: "Mayonesa",
-        price: 2000,
-        quanty: 5,
-        img: "../client/media/mayonesa.png",
-    },
-
-    {
-        id: 7,
-        productName: "Pollo",
-        price: 4000,
-        quanty: 5,
-        img: "../client/media/pollo.png",
-    },
-    {
-        id: 8,
-        productName: "Varios",
-        price: 10000,
+        price: 950,
         quanty: 1,
-        img: "../client/media/varios.png",
+        img: "../media/leche.png"
+    
     },
-];
+    {
+        id:3,
+        productName:"Pollo",
+        price: 750,
+        quanty: 1,
+        img:"../media/pollo.png"
+    
+    },
+    {
+        id:4,
+        productName:"Mayonesa",
+        price: 510,
+        quanty: 1,
+        img:"../media/mayonesa.png"
+    }]
+    

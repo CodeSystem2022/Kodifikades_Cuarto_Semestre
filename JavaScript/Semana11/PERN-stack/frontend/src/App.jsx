@@ -19,7 +19,8 @@ import NotFound from "./pages/NotFound"
 function App() {
 
   const { isAuth } = useAuth();
-  
+  //console.log(isAuth); //para ver el estado del usuario, el 'NO' logueado es falso
+
 
   return (
     <>
@@ -45,8 +46,7 @@ function App() {
       </Container>
 
     </>
-
-  )
+  );
 }
 
 export default App;

@@ -12,3 +12,5 @@ function HomePage() {
 }
 
 export default HomePage
+
+//ARCHIVO REVISADO A VIDEO 7 - CORRECTO

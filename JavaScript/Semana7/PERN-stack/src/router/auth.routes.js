@@ -1,14 +1,14 @@
-import { Router } from "express";
-import { profile, singin, singout, singup } from "../controllers/auth.controllers.js";
+import {Router} from "express";
+import { profile, signin, signout, signup } from "../controllers/auth.controller.js"; 
 
 const router = Router();
 
-router.post("/singin", singin);
+router.post("/signin", signin);
 
-router.post("/singup", singup);
+router.post("/signup", signup);
 
-router.post("/singout", singout);
+router.post("/signout", signout);
 
 router.get("/profile", profile);
 
-export default router;
+export default router; 

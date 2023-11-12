@@ -14,7 +14,7 @@ function LoginPage() {
   const onSubmit = handleSubmit(async (data) => {
     const user = await signin(data)
       if(user){
-        navigate("/perfil");
+        navigate("/perfil"); //si el usuario existe, lo redirige
     }
 
   });
@@ -59,7 +59,9 @@ function LoginPage() {
       </Card>
 
     </Container>
-  )
+  );;
 }
 
 export default LoginPage
+
+//ARCHIVO REVISADO HASTA VIDEO 6 - CORRECTO

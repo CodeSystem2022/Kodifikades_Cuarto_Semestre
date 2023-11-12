@@ -6,3 +6,5 @@ const cliente  = axios.create({
 });
 
 export default cliente;
+
+//ARCHIVO VERIFICADO AL VIDEO 6 - CORRECTO
