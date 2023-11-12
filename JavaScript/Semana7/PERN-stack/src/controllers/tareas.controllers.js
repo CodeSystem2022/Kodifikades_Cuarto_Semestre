@@ -1,11 +1,7 @@
 import { pool } from '../db.js';
 
 export const listarTareas = (req, res) => {
-    
-        console.log(req.headers);
-        console.log(req.cookiets.token);
-        console.log(req.usuarioId);
-        
+
         const resultado = pool.query('SELECT * FROM tareas');
         console.log(resultado);
         return res.json(resultado.rows);

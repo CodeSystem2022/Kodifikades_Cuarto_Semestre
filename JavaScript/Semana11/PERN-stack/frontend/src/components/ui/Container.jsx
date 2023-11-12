@@ -5,3 +5,5 @@ export function Container({ children, className }) {
 }
 
 export default Container;
+
+//ARCHIVO REVISADO -VIDEO 7 - FUNCIONANDO
